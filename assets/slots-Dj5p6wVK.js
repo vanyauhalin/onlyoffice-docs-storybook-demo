@@ -1,0 +1,1 @@
+import{t as p}from"./preact.module-BuNwemxg.js";function h(u,r){const n={},s=[],f=Object.keys(r),i=Object.values(r);return u.forEach(t=>{if(!p(t)){s.push(t);return}const e=i.findIndex(c=>t.type===c);if(e===-1){s.push(t);return}const o=f[e];n[o]||(n[o]=t)}),[n,s]}export{h as u};

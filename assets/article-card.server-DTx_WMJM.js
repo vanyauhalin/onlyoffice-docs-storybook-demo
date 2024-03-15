@@ -1,0 +1,1 @@
+import{y as c}from"./preact.module-BuNwemxg.js";function e({children:r}){return c("article",{class:"article-card"},c("div",{class:"article-card__inner"},c("img",{class:"article-card__preview",src:"https://api.onlyoffice.com/content/img/docbuilder/samples/create-formal-document.svg"}),r))}const a=Object.assign(e,{});export{a as A};

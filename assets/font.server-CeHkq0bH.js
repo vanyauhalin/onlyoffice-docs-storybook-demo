@@ -1,0 +1,1 @@
+import{y as n,g as e}from"./preact.module-BuNwemxg.js";const s=["OpenSans-Medium.woff2","OpenSans-Regular.woff2","OpenSans-SemiBold.woff2","OpenSans-Bold.woff2"];function i({root:o="/"}){return n(e,null,s.map(f=>n("link",{rel:"preload",href:`${o}${f}`,crossorigin:"",as:"font",type:"font/woff2"})))}Object.assign({},{Links:i});
